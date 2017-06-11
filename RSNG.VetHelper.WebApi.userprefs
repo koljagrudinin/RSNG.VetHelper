@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{62C221B8-7A64-40A8-B62D-F736165697AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RSNG.VetHelper.WebApi/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="RSNG.VetHelper.WebApi/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RSNG.VetHelper.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
